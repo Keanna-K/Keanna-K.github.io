@@ -3,8 +3,8 @@ title:              Keanna Knebel
 bio:                'Master of Data Science Student'
 description:        "University of British Columbia"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keanna-k.github.io" # the base hostname & protocol for your site
+baseurl: "/blog2/" # the subpath of your site, e.g. /blog
+url: "https://Keanna-K.github.io/" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
