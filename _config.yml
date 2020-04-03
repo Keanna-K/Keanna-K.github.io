@@ -3,7 +3,7 @@ title:              Keanna Knebel
 bio:                'Master of Data Science Student'
 description:        "University of British Columbia"
 locale:             en_US
-baseurl: "/blog2/" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: "https://Keanna-K.github.io/" # the base hostname & protocol for your site
 
 # Comments
@@ -19,7 +19,7 @@ LinkedIn:           keanna-knebel-aaa224141
 
 # personal
 location:           Vancouver, BC
-phone:              310-318-5555
+#phone:              310-318-5555
 email:              info@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
